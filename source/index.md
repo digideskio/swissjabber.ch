@@ -13,7 +13,7 @@ neuen Accounts registriert werden.
 dadurch aber auch keine Möglichkeit, das Passwort zurückzusetzen.
 
 Solltest du Probleme mit deinem Account haben, wende dich bitte an
-[support@nine.ch](mailto:support@nine.ch).
+<a href="mailto:&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#110;&#105;&#110;&#101;&#46;&#99;&#104;">&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#110;&#105;&#110;&#101;&#46;&#99;&#104;</a>
 
 # Was kommt als nächstes?
 Es wird eine neue Webseite aufgeschaltet. Diese liefert mittels FAQ
