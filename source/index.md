@@ -9,7 +9,7 @@ neuen Accounts registriert werden.
 # Was hat sich geändert?
 
 - Die bisherigen Bots stehen nicht mehr zur Verfügung.
-- Bis auf weiteres ist keine E-Mail-Registration mehr nötig, es gibt
+- Bis auf Weiteres ist keine E-Mail-Registration mehr nötig, es gibt
 dadurch aber auch keine Möglichkeit, das Passwort zurückzusetzen.
 
 Solltest du Probleme mit deinem Account haben, wende dich bitte an
@@ -18,4 +18,4 @@ Solltest du Probleme mit deinem Account haben, wende dich bitte an
 # Was kommt als nächstes?
 Es wird eine neue Webseite aufgeschaltet. Diese liefert mittels FAQ
 Antworten auf häufige Fragen. Ebenso werden die Anleitungen zum
-erstellen eines neuen Accounts überarbeitet.
+Erstellen eines neuen Accounts überarbeitet.
