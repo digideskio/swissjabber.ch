@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700);
+
+@import "normalize";
+@import "grid";
+@import "font-awesome";
+
+$main-color: #348ec9;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 24px;
+  margin-bottom: 100px;
+}
+
+h1 {
+  font-size: 1.2em;
+  margin-bottom: 0;
+  margin-top: 1.5em;
+}
+
+a {
+  color: #368fca;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+p, ul {
+  margin-top: .5em;
+}
+
+header {
+  padding-top: 30px;
+
+  img {
+    float: right;
+  }
+}
+
+footer {
+  margin-top: 50px;
+  font-size: .8em;
+  font-weight: 300;
+}
+
+.col6.logo {
+  background: url(/images/swissjabber.png) no-repeat center;
+  background-size: contain;
+  min-height: 300px;
+}
+
+@media screen and (min-device-pixel-ratio: 2) {
+  .col6.logo {
+    background-image: url(/images/swissjabber@2x.png);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .col6.logo {
+    min-height: 150px;
+  }
+}
