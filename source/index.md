@@ -13,9 +13,9 @@ Swissjabber ist eine von [nine.ch](http://nine.ch) betriebene öffentliche Chatp
 ## Allgemein
 
 Wenn du noch nicht bei Swissjabber registriert bist, musst du dir einen
-Nickname wählen, welcher dann, zusammen mit der Domain, deine
-Jabber-ID bildet. Unter dieser bist du in Zukunft im Jabber-Netzwerk
-bekannt. Eine Jabber-ID (Jabber-Identifikation kurz: ```jid``` oder ```jabber-id```)
+Nicknamen auswählen. Dieser wird zusammen mit der Domain deine
+```Jabber-ID``` bildet. Unter dieser bist du in Zukunft im Jabber-Netzwerk
+bekannt. Eine ```Jabber-ID``` (Jabber-Identifikation kurz: ```jid``` oder ```jabber-id```)
 sieht aus wie eine E-Mailadresse (zum Beispiel: ```mustermann@swissjabber.ch```).
 
 Aus folgenden Domains kannst du wählen:
