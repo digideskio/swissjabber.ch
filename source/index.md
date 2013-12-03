@@ -70,15 +70,6 @@ Wenn das Anmelden nun nicht mehr funktioniert, ist ein Mail an
 [support@nine.ch](mailto:support@nine.ch) nötig, damit wir den Account
 manuell auf den neuen Server migrieren können.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="H5AM5VDNL39RU" />
-<input type="image" src="https://www.paypalobjects.com/en_US/CH/i/btn/btn_donateCC_LG.gif" style="border: none" name="submit" alt="PayPal - The safer, easier way to pay online!" />
-<img alt="" style="border: none" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
-Für die Umtriebe würden wir uns natürlich über eine kleine Spende freuen.
-
 
 ## Wieso sehen mich einige Kontakte nicht mehr online?
 
