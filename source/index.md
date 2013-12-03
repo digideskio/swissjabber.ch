@@ -4,7 +4,7 @@ title: swissjabber
 
 # Was ist swissjabber?
 
-Swissjabber ist eine von [nine.ch](http://nine.ch) betriebene öffentliche Chatplattform.
+Swissjabber ist eine von [nine.ch](http://nine.ch) betriebene, öffentliche Chatplattform.
 
 
 
