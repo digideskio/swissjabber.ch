@@ -16,10 +16,23 @@ body {
   margin-bottom: 100px;
 }
 
+h1,h2 {
+  margin-bottom: 0;
+  margin-top: 1.5em;
+}
+
 h1 {
   font-size: 1.2em;
   margin-bottom: 0;
   margin-top: 1.5em;
+}
+h2 {
+  font-size: 1.1em;
+  margin-top: 1em;
+}
+
+h1 + h2 {
+  margin-top: 0.8em;
 }
 
 a {
@@ -36,6 +49,19 @@ header {
   padding-top: 30px;
 
   img {
+    float: right;
+  }
+}
+
+.content {
+  img {
+    float: right;
+    border: 1px solid;
+    margin: 30px;
+    margin-right: 0px;
+  }
+
+  form {
     float: right;
   }
 }
