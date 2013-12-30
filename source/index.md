@@ -57,7 +57,8 @@ Swissjabber-Server angelegt.
 
 Das Passwort kann über die entsprechende Funktion in deinem Jabber-Client
 geändert werden. Sollte dein Jabber-Client diese Funktion nicht unterstützen,
-wende dich an <a href="mailto:support@nine.ch">support@nine.ch</a>.
+versuche es mit einem anderen Client. [Pidgin](http://pidgin.im/) unterstützt
+dieses Feature.
 
 
 ## Wieso kann ich mich seit der Migration nicht mehr anmelden?
