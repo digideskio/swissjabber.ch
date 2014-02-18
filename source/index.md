@@ -82,13 +82,3 @@ noch Verbindungsprobleme. Explizit bekannt sind uns derzeit:
 
 Bitte an [support@nine.ch](mailto:support@nine.ch) eine kurze Nachricht senden,
 wenn solche Probleme auch mit anderen Anbietern auftreten.
-
-
-## Was soll ich tun wenn ich mein Passwort vergessen habe?
-
-Damit wir ein neues Passwort für den Swissjabber-Account setzen können, benötigen
-wir ein kurzes Mail an [support@nine.ch](mailto:support@nine.ch). Dieses sollte die
-Bitte um das Zurücksetzen des Passworts enthalten. Wir brauchen in diesem Fall den
-Namen deines Jabber-Accounts plus die Angabe einiger deiner Jabber Kontakte damit
-wir die Echtheit der Anfrage verifizieren können.
-
