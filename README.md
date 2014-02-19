@@ -1,0 +1,5 @@
+# Deployment
+
+```shell
+cap deploy
+```
