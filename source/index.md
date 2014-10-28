@@ -85,6 +85,6 @@ wenn solche Probleme auch mit anderen Anbietern auftreten.
 
 ## Wieso kann ich mich von Server X nicht mit Swissjabber verbinden?
 
-Seit 28.10.2014 lassen wir keine unverschlüsselten Verbindungen auf Swissjabber mehr zu.
+Seit dem 28.10.2014 lassen wir keine unverschlüsselten Verbindungen auf Swissjabber mehr zu.
 Falls Sie keine Chats mehr mit Swissjabber-Accounts führen können deutet dies darauf hin,
-dass Ihr verwendeter Jabber Server keine Transport-Verschlüsselung unterstützt.
+dass Ihr verwendeter Jabber-Server keine Transport-Verschlüsselung unterstützt.
