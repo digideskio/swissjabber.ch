@@ -53,9 +53,14 @@ p, ul {
 
 header {
   padding-top: 30px;
+  text-align: right;
+
+  a {
+    margin-left: 15px;
+  }
 
   img {
-    float: right;
+    float: left;
   }
 }
 
